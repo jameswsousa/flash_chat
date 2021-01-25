@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554768608241",
+    "project_id": "flashchatjames",
+    "storage_bucket": "flashchatjames.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554768608241:android:5c8b141f3cf1f98ea13250",
+        "android_client_info": {
+          "package_name": "co.jameswsousa.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554768608241-tt6p9blg9vm6262pc8rso1i8mh8nsue4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0adgKft69YEDC7r7xOZxB-erZytheIUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554768608241-tt6p9blg9vm6262pc8rso1i8mh8nsue4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
